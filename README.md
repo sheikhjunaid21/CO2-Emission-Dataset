@@ -1,4 +1,24 @@
 # CO2-Emission-Dataset
-Finding the country  and region with highest emission of CO2 using Tableau
-Here are the public tableau project link 
-https://public.tableau.com/views/CO2EmmisionDataset/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Tableau Project: Identifying Countries and Regions with the Highest CO2 Emissions
+Overview
+This Tableau project aims to analyze and visualize carbon dioxide (CO2) emissions on a global scale to identify the countries and regions with the highest emissions. The visualization provides insights into the distribution of CO2 emissions, helping users understand the environmental impact of different areas.
+
+Data Source
+The project utilizes  for CO2 emissions data. The dataset includes information on emissions from various countries and regions over a specified time period.
+
+Tableau Workbook
+Dashboard Components
+Global CO2 Emissions Map:
+
+An interactive map showcasing CO2 emissions globally.
+Colors represent the intensity of emissions, with darker shades indicating higher levels.
+Top Emitting Countries Bar Chart:
+
+A scatter chart displaying the top countries with the highest CO2 emissions.
+Users can filter the time range to observe changes over different periods.
+Regional Comparison Pie Chart:
+
+A line chart comparing CO2 emissions across different regions.
+Provides a quick overview of regional contributions to global emissions.
+Insights
