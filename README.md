@@ -5,7 +5,7 @@ Overview
 This Tableau project aims to analyze and visualize carbon dioxide (CO2) emissions on a global scale to identify the countries and regions with the highest emissions. The visualization provides insights into the distribution of CO2 emissions, helping users understand the environmental impact of different areas.
 
 Data Source
-The project utilizes  for CO2 emissions data. The dataset includes information on emissions from various countries and regions over a specified time period.
+The project utilizes https://github.com/sheikhjunaid21/CO2-Emission-Dataset/blob/main/CO2%20(kt)%20RAW%20DATA.csv for CO2 emissions data. The dataset includes information on emissions from various countries and regions over a specified time period.
 
 Tableau Workbook
 Dashboard Components
